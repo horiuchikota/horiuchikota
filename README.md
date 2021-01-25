@@ -6,8 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=hori7&color=green)
 
-[Gcal](https://is.gd/VPkmFE)
-
 <!--
 **hori7/hori7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
